@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "spring.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.app.jwtSecret'"
+  },
+  {
+    "name": "spring.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.app.jwtExpirationMs'"
+  },
+  {
+    "name": "auth.password",
+    "type": "java.lang.String",
+    "description": "A description for 'auth.password'"
+  },
+  {
+    "name": "auth.ztoken",
+    "type": "java.lang.String",
+    "description": "A description for 'auth.ztoken'"
+  },
+  {
+    "name": "auth.username",
+    "type": "java.lang.String",
+    "description": "A description for 'auth.username'"
+  }
+]}
